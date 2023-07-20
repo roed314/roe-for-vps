@@ -441,6 +441,15 @@ div.opaque {
   background: #699BBC;
 }
 
+.paypal-button-logo-blue {
+  background: #009cde;
+  color: #fff;
+  border-radius: 3px 3px 3px 3px;
+  min-width: 148px;
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+}
+
 .text-container {
   background: #f4f2b6;
   margin: 10px 0px;
@@ -835,7 +844,7 @@ div.headertop img {
   padding-top: 10px;
   font-size: 32px;
   text-align: left;
-  margin: 5px 0px auto;
+  margin: 5px 0px 15px 0px;
 }
 .text-area h4 {
   font-family: 'EB Garamond', sans-serif;

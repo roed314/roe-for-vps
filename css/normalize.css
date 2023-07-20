@@ -297,10 +297,11 @@ dl,
 menu,
 ol,
 ul {
-    margin: 0;
     padding: 0;
-    list-style: none;
-    list-style-image: none;
+}
+
+.text-area li {
+  margin: 20px;
 }
 
 dd {
