@@ -864,9 +864,6 @@ div.headertop img {
 .text-area ul {
   margin: 0px 0px 30px 20px;
 }
-.text-container a, .text-container a:visited {
-  color: #b71c1c;
-}
 /* line 619, ../sass/screen.scss */
 #festivities-sec .item p {
   margin: 100px;
