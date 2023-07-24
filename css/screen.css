@@ -1304,3 +1304,17 @@ Print styles
   height: 95px;
   z-index: 99999;
 }
+
+table.gradelevel {
+  margin: 20px;
+  width: 500px;
+  table-layout: fixed;
+}
+
+table.gradelevel th {
+  text-align: left;
+}
+
+table.gradelevel td {
+  padding: 5px;
+}
